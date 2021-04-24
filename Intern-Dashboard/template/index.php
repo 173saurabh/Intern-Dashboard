@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
 session_start();
 if (isset($_GET['logout'])) {
   session_destroy();
@@ -10,7 +10,7 @@ if (isset($_GET['logout'])) {
   </script>
 <?php
 }
-?> -->
+?>
 
 
 <!DOCTYPE html>
